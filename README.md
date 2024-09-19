@@ -8,12 +8,12 @@ This repository contains three folders, each corresponding to a different experi
 
 ### Synthetic Experiment 1
 
-* Investigates the behavior of threshold for test T based on the empirical quantile approach for various values of n and k, and for different graph topologies and Thurstone models.
+* Investigates the behavior of threshold for test T based on the empirical quantile approach for various values of number of agents n and number of pairwise comparison (per pair) k, and for different graph topologies and Thurstone models.
 * See `synthetic_experiment_1/README.md` for more details.
 
 ### Synthetic Experiment 2
 
-* Confidence intervals under null hypothesis for the BTL model.
+* Confidence intervals under null hypothesis for the BTL model (i.e. when BTL model is the true model).
 * See `synthetic_experiment_2/README.md` for more details.
 
 ### Testing for LYMSYS
